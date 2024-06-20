@@ -4,10 +4,12 @@ This is the source code for the paper: MF-Saudi: A Multimodal Framework for Brid
 ## Files
 
 - `data_processing.py`: Contains functions for loading and preprocessing data.
+- `models.py`: Contains the main models in the paper.
 - `model_training.py`: Contains the main training loop for the model.
 - `plotting.py`: Contains functions for plotting training metrics.
 - `feature_extraction.py`: Contains functions for extracting features from text and audio.
 - `utils.py`: Contains utility functions such as learning rate scheduling and downloading pre-trained models.
+- `example.ipynb`: example file to run the training script from jupyter notebook.
 
 ## Requirements
 
